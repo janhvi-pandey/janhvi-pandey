@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janhvi-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="janhvi-pandey" /> </p>
 
-- 🌱 I’m currently learning **frameworks in frontend development, and backend**
+- 🌱 I’m currently learning **frontend and backend frameworks.**
 
 - 📫 How to reach me **shivipandey993@gmail.com**
 
