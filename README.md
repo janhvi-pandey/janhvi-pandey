@@ -9,11 +9,13 @@
 
 - 🙂 View Portfolio-https://janhvi-portfolio.web.app/
 
+- ✉️ Email-shivipandey993@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shiviika23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiviika23" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/janhvipandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janhvipandey/" height="30" width="40" /></a>
- <a href="mailto:shivipandey993@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="email" height="30" width="40" /></a>
+
 <a href="https://instagram.com/https://www.instagram.com/its_shiviika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its_shiviika" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/janhvipandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/janhvipandey/" height="30" width="40" /></a>
 </p>
