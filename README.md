@@ -9,7 +9,7 @@
 
 - 🙂 View Portfolio-https://janhvi-portfolio.web.app/
 
-- ✉️ Email-shivipandey993@gmail.com
+- ✉️ Email -shivipandey993@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
